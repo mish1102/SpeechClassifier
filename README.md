@@ -1,7 +1,7 @@
-# SpeechRecognizer
+# SpeechClassifier
 
 
-# This repository aimed at building your own Speech Recognizer and a classifier as well. This will enable an idea where human natural language is understood and classified in one of the category based on the context of the text spoken by the human.
+# This repository aimed at building your own Speech classifier as well. This will enable an idea where human natural language is understood and classified in one of the category based on the context of the text spoken by the human.
 
 The categories considered in this repository are as follows : 
 
